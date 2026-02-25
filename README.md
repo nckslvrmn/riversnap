@@ -1,4 +1,4 @@
-# 🔩 riversnap
+# 🌊🫰 riversnap
 
 A minimal layout generator for the [River](https://codeberg.org/river/river) Wayland compositor that lets you snap windows to screen halves or maximize them with keyboard shortcuts.
 
